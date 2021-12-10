@@ -4,7 +4,7 @@ summary: Screen is a building block of an app. You can create empty Screens or w
 
 # Screen
 
-A Screen is a user interface (UI) element that contains other UI elements for users to interact. An empty Screen contains a basic layout for you to add widgets. A Screen based on a Screen Template has predefined content that works as a demo.
+A Screen is a user interface (UI) element that contains other UI elements for users to interact with. An empty Screen contains a basic layout for you to add widgets to. A Screen based on a Screen Template has predefined content that works as a demo.
 
 How Screens show in an app to you users depends on the app type:
 
@@ -36,7 +36,7 @@ To create a Screen, follow these steps in Service Studio:
 
 <div class="info" markdown="1">
 
-Do you prefer keyboard shortcuts? Select a UI Flow, for example MainFlow, and use the following shortcuts to create a Screen:
+Do you prefer keyboard shortcuts? If so, select a UI Flow, for example MainFlow, and use the following shortcuts to create a Screen:
 
 * **Ctrl + N**. Opens a New Screen window.
 * **Ctrl + Shift + N**. Creates a new blank Screen.
